@@ -6,7 +6,7 @@
 - 通过token登录portal获取cookie
 - 带着cookie访问出入校报备，获取`simsoToken`
 - 通过`simsoToken`登录simso系统，获取`sid`
-- 带着`sid`访问出入校报备小程序并填报
+- 带着`sid`访问出入校报备小程序并填报!!!
 
 ## usage
 
